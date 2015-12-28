@@ -200,7 +200,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 // /alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -239,7 +239,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 // /alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -278,7 +278,7 @@ if(empidempl == verification_user_id){
 //alert(empimgempl+''+qualification_id+''+empidempl+''+verification_user_id);
 var oneemp=employimg_obj.document;
 // /alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -317,7 +317,7 @@ if(empidempl == verification_user_id){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -352,7 +352,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -385,7 +385,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -421,7 +421,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -459,7 +459,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 }
@@ -495,7 +495,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -531,7 +531,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -563,7 +563,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -596,7 +596,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -630,7 +630,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -665,7 +665,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -700,7 +700,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -739,7 +739,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -773,7 +773,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -809,7 +809,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert('oneemploy');
 var oneemp=employimg_obj.document;
 //alert('oneemp');
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -843,7 +843,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -879,7 +879,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -913,7 +913,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -947,7 +947,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -979,7 +979,7 @@ for(a=0;a<employment_upload_array.length;a++){
 //alert(oneemploy);
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 }
 
@@ -1010,7 +1010,7 @@ for(a=0;a<employment_upload_array.length;a++){
 
   var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 
 }
@@ -1051,7 +1051,7 @@ for(a=0;a<employment_upload_array.length;a++){
 
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 
 k++;
@@ -1132,7 +1132,7 @@ for(a=0;a<employment_upload_array.length;a++){
 
   var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 
 }
@@ -1173,7 +1173,7 @@ if(empimg == qualification_id && empid == verification_user_id ) {
 //var oneemp=employimg_obj.document;
 var oneemp=employimg_obj.document;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/uploads/'+oneemp+'"><img src="http://fourthforce.in/verify/uploads/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 j++;
 oneemp[j]=employimg_obj.document;
@@ -1258,7 +1258,7 @@ if(oneimg == qualification_id && oneid == verification_user_id ){
 //alert("if address proof");
 var oneemp=addressimg_obj.document_name;
 //alert(oneemp);
-  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/slim-fourth/documents/addressid/'+oneemp+'"><img src="http://fourthforce.in/verify/slim-fourth/documents/addressid/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
+  $('.ssnewin').append('<li><a href="http://fourthforce.in/verify/documents/addressid/'+oneemp+'"><img src="http://fourthforce.in/verify/documents/addressid/'+oneemp+'" style="height: 100%;width:100%" ></a></li>');
 
 j++;
 oneaddress[j]=addressimg_obj.document_name;
