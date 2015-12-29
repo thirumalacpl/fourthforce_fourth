@@ -50,7 +50,7 @@ educational_records_array =  JSON.parse(sessionStorage.getItem("educational_reco
 /*activity_log_details_array =  JSON.parse(sessionStorage.getItem("activity_log_supervisor_details_array"));*/
 image_log_array =  JSON.parse(sessionStorage.getItem("image_log_array"));
 
-employment_records_array =  JSON.parse(sessionStorage.getItem("employment_records_array"));
+employment_records_array =  JSON.parse(sessionStorage.getItem("emp_verification_cumulative_array"));
 supervisor_activity_log_array =  JSON.parse(sessionStorage.getItem("supervisor_activity_log_array"));
 supervisor_final_command_array =  JSON.parse(sessionStorage.getItem("supervisor_final_command_array"));
 
